@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Trang  
+Computer Science @ Georgia State University  
+Aspiring Backend + Machine Learning Engineer  
+Building personal OS dashboards, ML-driven productivity systems, and way too many side projects at 3AM.
 
-<!--
-**tranguyeenn/tranguyeenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I’m Into  
+AI, backend engineering, scalable systems, and turning chaotic ideas into functional projects.  
+Currently exploring ML models, FastAPI, SQL, and minimal frontend frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+Python · JavaScript · TypeScript · SQL  
+
+### **Frameworks & Tools**
+FastAPI · React · Vite · Tailwind · 
+PostgreSQL · Supabase · Git
+
+---
+
+## 📚 Notable Projects
+- **Luna** – Personal OS dashboard with widgets, analytics, and AI  
+- **StudyWorld** – Retro-OS-style productivity dashboard  
+- **Arca** – A minimal transit startup app made for quick route checks and clean navigation 
+
+---
+
+## 🔗 Connect With Me  
+[LinkedIn](https://www.linkedin.com/in/trnguyenn/) · [GitHub](https://github.com/tranguyeenn)  
+**Email:** tranguyeenn2007@gmail.com
+
+---
+
+## 🌙 Fun Fact  
+My side projects exist because I am purely bored
