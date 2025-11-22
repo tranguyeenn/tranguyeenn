@@ -24,8 +24,7 @@ PostgreSQL · Supabase · Git
 
 ## 📚 Notable Projects
 - **Luna** – Personal OS dashboard with widgets, analytics, and AI  
-- **StudyWorld** – Retro-OS-style productivity dashboard  
-- **Arca** – A minimal transit startup app made for quick route checks and clean navigation 
+- **Arca** – A minimal Chrome Extension that helps student retain information effortlessly
 
 ---
 
