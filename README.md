@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trang  
 Computer Science @ Georgia State University  
-Aspiring Backend + Machine Learning Engineer  
+Aspiring Data Scientist + Machine Learning Engineer  
 Building personal OS dashboards, ML-driven productivity systems, and way too many side projects at 3AM.
 
 ---
