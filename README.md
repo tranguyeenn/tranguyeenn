@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Trang  
 Computer Science @ Georgia State University  
 Aspiring Data Scientist + Machine Learning Engineer  
-Building personal OS dashboards, ML-driven productivity systems, and way too many side projects at 3AM.
 
 ---
 
@@ -23,7 +22,6 @@ PostgreSQL · Supabase · Git
 ---
 
 ## 📚 Notable Projects
-- **Luna** – Personal OS dashboard with widgets, analytics, and AI  
 - **Arca** – A minimal Chrome Extension that helps student retain information effortlessly
 
 ---
