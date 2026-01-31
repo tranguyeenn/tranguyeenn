@@ -22,8 +22,7 @@ PostgreSQL · Supabase · Git
 ---
 
 ## 📚 Notable Projects
-- **Arca** – A minimal Chrome Extension that helps student retain information effortlessly
-
+- **Recommendation Books Tracker** 
 ---
 
 ## 🔗 Connect With Me  
