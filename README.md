@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trang  
 Computer Science @ Georgia State University  
-Aspiring Data Scientist + Machine Learning Engineer  
+Aspiring Data Scientist + Machine Learning Engineer
 
 ---
 
@@ -22,7 +22,8 @@ PostgreSQL · Supabase · Git
 ---
 
 ## 📚 Notable Projects
-- **Recommendation Books Tracker** 
+- **Recommendation Books Tracker**
+- **Sonic-Lab -** This is something that I picked up recently watching some creator live coding music
 ---
 
 ## 🔗 Connect With Me  
