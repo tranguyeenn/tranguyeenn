@@ -66,6 +66,7 @@ Exploring programmatic music inspired by live coding environments.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tranguyeenn&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## Connect With Me  
