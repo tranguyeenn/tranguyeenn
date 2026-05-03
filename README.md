@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=FF00AA&center=true&vCenter=true&width=700&lines=Trang+Nguyen;CS+%2B+Music+%2B+Code;Turning+logic+into+sound;Building+systems+that+move" />
+  <img src="./dj-controller.svg" width="100%" />
 </p>
 
 # 👋 Hi, I'm Trang  
