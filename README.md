@@ -24,15 +24,24 @@ Currently exploring:
 
 ### Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### Tools & Frameworks  
+### Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,tailwind,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
+### Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,git" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
