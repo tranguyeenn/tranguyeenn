@@ -1,0 +1,85 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="280" rx="28" fill="#0b0f1a"/>
+
+  <!-- glow -->
+  <ellipse cx="500" cy="140" rx="420" ry="100" fill="#ff4fd8" opacity="0.12">
+    <animate attributeName="opacity" values="0.08;0.18;0.08" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- controller base -->
+  <rect x="140" y="60" width="720" height="170" rx="24" fill="#151b2e" stroke="#ff66c4" stroke-width="3"/>
+
+  <!-- left platter -->
+  <circle cx="290" cy="145" r="58" fill="#080b12" stroke="#7df9ff" stroke-width="4"/>
+  <circle cx="290" cy="145" r="37" fill="none" stroke="#ff66c4" stroke-width="5" stroke-dasharray="30 20">
+    <animateTransform attributeName="transform" type="rotate" from="0 290 145" to="360 290 145" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="290" cy="145" r="8" fill="#7df9ff"/>
+
+  <!-- right platter -->
+  <circle cx="710" cy="145" r="58" fill="#080b12" stroke="#7df9ff" stroke-width="4"/>
+  <circle cx="710" cy="145" r="37" fill="none" stroke="#ff66c4" stroke-width="5" stroke-dasharray="30 20">
+    <animateTransform attributeName="transform" type="rotate" from="360 710 145" to="0 710 145" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="710" cy="145" r="8" fill="#7df9ff"/>
+
+  <!-- mixer center -->
+  <rect x="430" y="85" width="140" height="120" rx="16" fill="#0f1424"/>
+
+  <!-- knobs -->
+  <circle cx="465" cy="115" r="10" fill="#ff66c4"/>
+  <circle cx="500" cy="115" r="10" fill="#7df9ff"/>
+  <circle cx="535" cy="115" r="10" fill="#ff66c4"/>
+
+  <circle cx="465" cy="150" r="10" fill="#7df9ff"/>
+  <circle cx="500" cy="150" r="10" fill="#ff66c4"/>
+  <circle cx="535" cy="150" r="10" fill="#7df9ff"/>
+
+  <!-- faders -->
+  <line x1="465" y1="175" x2="465" y2="205" stroke="#ffffff" stroke-width="4" opacity="0.5"/>
+  <rect x="458" y="185" width="14" height="8" rx="3" fill="#ff66c4">
+    <animate attributeName="y" values="185;172;198;185" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="500" y1="175" x2="500" y2="205" stroke="#ffffff" stroke-width="4" opacity="0.5"/>
+  <rect x="493" y="194" width="14" height="8" rx="3" fill="#7df9ff">
+    <animate attributeName="y" values="194;180;200;194" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="535" y1="175" x2="535" y2="205" stroke="#ffffff" stroke-width="4" opacity="0.5"/>
+  <rect x="528" y="180" width="14" height="8" rx="3" fill="#ff66c4">
+    <animate attributeName="y" values="180;198;170;180" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- equalizer bars -->
+  <rect x="380" y="170" width="8" height="25" rx="4" fill="#7df9ff">
+    <animate attributeName="height" values="25;55;20;40;25" dur="1s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="170;140;175;155;170" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="395" y="155" width="8" height="40" rx="4" fill="#ff66c4">
+    <animate attributeName="height" values="40;20;60;30;40" dur="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="155;175;135;165;155" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="410" y="165" width="8" height="30" rx="4" fill="#7df9ff">
+    <animate attributeName="height" values="30;50;25;60;30" dur="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="165;145;170;135;165" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="585" y="170" width="8" height="25" rx="4" fill="#7df9ff">
+    <animate attributeName="height" values="25;45;20;60;25" dur="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="170;150;175;135;170" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="600" y="150" width="8" height="45" rx="4" fill="#ff66c4">
+    <animate attributeName="height" values="45;25;65;35;45" dur="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="150;170;130;160;150" dur="1.3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="615" y="165" width="8" height="30" rx="4" fill="#7df9ff">
+    <animate attributeName="height" values="30;60;25;45;30" dur="1s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="165;135;170;150;165" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- title -->
+  <text x="500" y="38" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="24">
+    now playing: code · music · books
+  </text>
+</svg>
