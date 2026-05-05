@@ -55,6 +55,14 @@ A backend-driven recommendation system for managing and ranking books in a TBR l
 
 ---
 
+### Podify (CLI Spotify Controller)
+A terminal-based application for controlling Spotify playback and interacting with user music in real time.
+- Built with Python and Spotify Web API (Spotipy)
+- Designed for fast, keyboard-driven control without a graphical interface
+- Focus on API integration, command-based interaction, and system-level controls
+
+---
+
 ### Sonic-Lab (Creative Coding / Audio Experiments)  
 Exploring programmatic music inspired by live coding environments.  
 - Experimenting with sound generation and structure  
