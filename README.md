@@ -85,4 +85,4 @@ Exploring programmatic music inspired by live coding environments.
 ---
 
 ## Fun Fact  
-Most of my projects start because I get bored… and then accidentally turn into something real
+Most of my projects start because life is incovenience… and then accidentally turn into something real
